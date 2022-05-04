@@ -22,7 +22,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Endpoints
+## Resultados & O que é esperado
 Arquivo com a lista de deputados e suas frentes em JSON! Os arquivos gerados se encontram na pasta **Finalizado** com o nome da data e hora extraídos.<br>
 ![image](https://user-images.githubusercontent.com/19514153/164598810-a5367900-4edf-413b-9aa8-a085b50ff709.png)
 <br>
